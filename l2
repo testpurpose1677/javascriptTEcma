@@ -1,0 +1,9 @@
+Diff between 
+let const var 
+var is function scope 
+
+let and const are block scope 
+
+so better to use always let 
+
+Do not use var ( as we are not used to )
